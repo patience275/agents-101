@@ -1,0 +1,8 @@
+langchain-core
+langchain-community
+langchain[mistralai]
+wikipedia
+python-dotenv
+pydantic
+duckduckgo-search
+streamlit
